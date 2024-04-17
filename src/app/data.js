@@ -31,7 +31,7 @@ export const images = [
   },
   {
     id: "7",
-    title: "croissants",
+    title: "croisssants",
     path: "/gallery/croissants.jpg",
   },
   {
